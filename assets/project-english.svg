@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="220" viewBox="0 0 620 220" role="img" aria-labelledby="title desc">
+  <title id="title">English Level-up Tips</title>
+  <desc id="desc">A practical English learning guide written for Chinese learners.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFF9F3"/>
+      <stop offset="1" stop-color="#F7E4E9"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="618" height="218" rx="22" fill="url(#bg)" stroke="#E9D0D5" stroke-width="2"/>
+  <g font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="38" y="47" font-size="13" font-weight="700" letter-spacing="2.8" fill="#A27D89">KNOWLEDGE SHARING</text>
+    <text x="38" y="91" font-size="28" font-weight="720" fill="#51445B">English Level-up Tips</text>
+    <text x="38" y="124" font-size="16" fill="#75657D">A practical guide for Chinese learners.</text>
+    <g font-size="12.5" font-weight="650">
+      <rect x="38" y="151" width="72" height="29" rx="14.5" fill="#FFFDFC" stroke="#E6CBD1"/>
+      <text x="74" y="170" text-anchor="middle" fill="#885F6B">writing</text>
+      <rect x="121" y="151" width="76" height="29" rx="14.5" fill="#FFFDFC" stroke="#E6CBD1"/>
+      <text x="159" y="170" text-anchor="middle" fill="#885F6B">learning</text>
+    </g>
+    <text x="579" y="40" text-anchor="end" font-size="23" fill="#986E7B">↗</text>
+  </g>
+  <g transform="translate(497 119)">
+    <path d="M-63 -54 C-24 -66 -3 -45 0 -25 C3 -45 24 -66 63 -54 V62 C26 52 6 67 0 76 C-6 67 -26 52 -63 62 Z" fill="#FFFDFC" stroke="#987582" stroke-width="2"/>
+    <path d="M0 -25 V76" stroke="#C89EAA" stroke-width="2"/>
+    <path d="M-45 -29 H-15 M-45 -10 H-12 M-45 9 H-20 M16 -29 H46 M12 -10 H46 M19 9 H46" stroke="#D8B9C1" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="47" cy="42" r="11" fill="#D1B8DE"/>
+  </g>
+</svg>
