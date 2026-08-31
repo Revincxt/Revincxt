@@ -4,8 +4,6 @@
 
 Planning, reinforcement learning, and autonomous systems.
 
-我关注智能规划、强化学习与自主系统，主要使用 Python 构建可复现实验。
-
 [Projects](#projects) · [All repositories](https://github.com/Revincxt?tab=repositories)
 
 </div>
