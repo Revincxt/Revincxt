@@ -4,7 +4,7 @@
 
 **Planning · Reinforcement learning · Autonomous systems**
 
-Interactive projects across warehouses, urban airspace, and satellite operations.
+Interactive projects across satellite operations, urban airspace, and warehouses.
 
 [Explore projects](#selected-projects) · [All repositories](https://github.com/Revincxt?tab=repositories)
 
