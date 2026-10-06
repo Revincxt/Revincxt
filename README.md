@@ -50,10 +50,3 @@ Interactive projects across warehouses, urban airspace, and satellite operations
     </td>
   </tr>
 </table>
-
-<details>
-<summary>Earlier work</summary>
-
-[GTPyhop](https://github.com/Revincxt/GTPyhop) · [Satellite mission scheduling](https://github.com/Revincxt/satellitesMissionSchedule)
-
-</details>
