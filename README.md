@@ -15,14 +15,14 @@ Interactive projects across warehouses, urban airspace, and satellite operations
 <table>
   <tr>
     <td width="42%">
-      <a href="https://revincxt.github.io/adaptive-agent/">
-        <img src="https://raw.githubusercontent.com/Revincxt/adaptive-agent/main/docs/assets/replay-explorer.png" width="320" alt="FleetLab: 3D warehouse with forklifts, chargers, and a shared task queue">
+      <a href="https://revincxt.github.io/FleetLab/">
+        <img src="https://raw.githubusercontent.com/Revincxt/FleetLab/main/docs/assets/replay-explorer.png" width="320" alt="FleetLab: 3D warehouse with forklifts, chargers, and a shared task queue">
       </a>
     </td>
     <td width="58%">
-      <h3><a href="https://github.com/Revincxt/adaptive-agent">FleetLab</a></h3>
+      <h3><a href="https://github.com/Revincxt/FleetLab">FleetLab</a></h3>
       <p>Multi-AGV warehouse simulation with coordinated routing, shared tasks, automatic charging, and 3D replay.</p>
-      <p><a href="https://revincxt.github.io/adaptive-agent/">Live demo ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Revincxt/adaptive-agent">Source</a></p>
+      <p><a href="https://revincxt.github.io/FleetLab/">Live demo ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Revincxt/FleetLab">Source</a></p>
     </td>
   </tr>
   <tr>
